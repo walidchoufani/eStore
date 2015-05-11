@@ -3,4 +3,9 @@
 write=nobody
 execute=authenticated 
   **/ 
- return "test/script1";   							
+ var ahra664ra = "m3allem, aktar men heik akel hawa w maskhara ma 3ed ysir";
+
+/*
+* to note that this a test added comment.......
+*/
+return "ktir hal2ad " + ahra664ra;				   							
