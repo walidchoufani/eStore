@@ -3,9 +3,9 @@
 write=nobody
 execute=authenticated 
   **/ 
- var maskhara = "akel hawa";
+ var marhaba = "m3allem, aktar men heik akel hawa w maskhara ma 3ed ysir";
+
 /*
 * to note that this a test added comment.......
 */
-
-return "test/script1 is " + maskhara ;   				   							
+return "ktir hal2ad "+ " test/script1 is " + marhaba ;   				   							
