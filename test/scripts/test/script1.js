@@ -3,7 +3,7 @@
 write=nobody
 execute=authenticated 
   **/ 
- var ahra664ra = "m3allemdf, aktar men heik akel hawa w maskhara ma 3ed ysir";
+ var ahra664ra = "mr3allemdf, aktar men heik akel hawa w maskhara ma 3ed ysir";
 
 /*
 * no comments, i said no comments
