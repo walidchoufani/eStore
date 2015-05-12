@@ -3,9 +3,9 @@
 write=nobody
 execute=authenticated 
   **/ 
- var ahra664ra = "m3allem, aktar men heik akel hawa w maskhara ma 3ed ysir";
+ var ahra664ra = "m3allemdf, aktar men heik akel hawa w maskhara ma 3ed ysir";
 
 /*
-* no comments
+* no comments, i said no comments
 */
-return "ktir hal2ad " + ahra664ra;				   				   							
+return "ktir hal2ad " + ahra664ra;				   				   				   				   							
