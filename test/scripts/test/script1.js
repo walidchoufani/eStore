@@ -6,6 +6,6 @@ execute=authenticated
  var ahra664ra = "smr3alsslsd emdf, aktar men heik akel hawa w maskhara ma 3ed ysir";
 
 /*
-* no comments, i said no comments
+* no comments, i said dno comments
 */
 return "ktir hal2ad " + ahra664ra;				   				   				   				   							
