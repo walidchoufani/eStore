@@ -3,7 +3,7 @@
 write=nobody
 execute=anonymous 
   **/ 
-  return "true";
+ //adding comments
 try {
  
   var common = require("workflow/common");
@@ -94,4 +94,4 @@ try {
   var pid = simpleProcessDef.start();
 }catch(exception) {
   return exception;
-}    				   							   							
+}    				   							   				   							
